@@ -35,9 +35,11 @@ run pip install -r requirements.txt
 
 4. Enter details into the Sender ID, Receiver ID, Amount and click the 'Add Block' button. This will add a block to the ledger. This can be validated in two ways: the new block will appear as a new row in the PyChain ledger dataframe and secondly, will appear under the Block Inspector dropdown. 
 
+---
+
 ## Validation
 As per the screenshot below, four additional blocks have been addeed to the chain, and upon clicking the 'Validate Chain' button, we receive a True statement indicating the validity of the entire ledger.
-![Screen Shot 2022-07-14 at 8 23 52 PM](https://user-images.githubusercontent.com/98444459/179123117-7ea596ed-41c3-41e4-b6c4-361e93f29485.png)
+![Screen Shot 2022-07-14 at 8 23 59 PM](https://user-images.githubusercontent.com/98444459/179417676-30e547ef-25e4-491a-ae96-b9e169f1a878.png)
 
 As per this screenshot below we can see the details of one of the blocks entered in the blockchain that has been selected using the dropdown. 
 ![Screen Shot 2022-07-14 at 8 30 02 PM](https://user-images.githubusercontent.com/98444459/179123130-a02fc238-698e-4ec9-982e-5a8cec2af8df.png)
