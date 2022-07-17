@@ -17,7 +17,7 @@ run pip install -r requirements.txt
 <img width="907" alt="Screen Shot 2022-04-03 at 3 35 27 PM" src="https://user-images.githubusercontent.com/98444459/161445246-d4eecac4-44ae-452f-8e0c-ebaa9e523908.png">
 
 2. Run a git clone command in your terminal or git bash under the desired local directory
-<img width="766" alt="Screen Shot 2022-06-18 at 5 09 13 PM" src="https://user-images.githubusercontent.com/98444459/174460708-4206527c-585d-4148-bde4-454fc78f6e16.png">
+<img width="715" alt="Screen Shot 2022-07-17 at 1 07 58 PM" src="https://user-images.githubusercontent.com/98444459/179416878-c43af521-a43f-477c-bd45-e16e147cc179.png">
 
 3. If you receive errors, please review the dependencies above, install them and try again. 
 
@@ -26,6 +26,9 @@ run pip install -r requirements.txt
 ## Usage
 
 1. Navigate to the directory in either the Terminal or GitBash. 
+
+2. Run the following command: streamlit run pychain.py
+<img width="533" alt="Screen Shot 2022-07-17 at 1 10 56 PM" src="https://user-images.githubusercontent.com/98444459/179416949-cd4e4bda-f532-4195-b2ce-77f930e0b0cb.png">
 
 
 ![Screen Shot 2022-07-14 at 8 23 52 PM](https://user-images.githubusercontent.com/98444459/179123117-7ea596ed-41c3-41e4-b6c4-361e93f29485.png)
