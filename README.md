@@ -30,8 +30,29 @@ run pip install -r requirements.txt
 2. Run the following command: streamlit run pychain.py
 <img width="533" alt="Screen Shot 2022-07-17 at 1 10 56 PM" src="https://user-images.githubusercontent.com/98444459/179416949-cd4e4bda-f532-4195-b2ce-77f930e0b0cb.png">
 
+3. The Streamlit application will run locally in your browser and should launch automatically.
+<img width="988" alt="Screen Shot 2022-07-17 at 1 16 15 PM" src="https://user-images.githubusercontent.com/98444459/179417175-fb0f32f0-19cc-4cf2-bdc0-9bdaeb32509f.png">
 
+4. Enter details into the Sender ID, Receiver ID, Amount and click the 'Add Block' button. This will add a block to the ledger. This can be validated in two ways: the new block will appear as a new row in the PyChain ledger dataframe and secondly, will appear under the Block Inspector dropdown. 
+
+## Validation
+As per the screenshot below, four additional blocks have been addeed to the chain, and upon clicking the 'Validate Chain' button, we receive a True statement indicating the validity of the entire ledger.
 ![Screen Shot 2022-07-14 at 8 23 52 PM](https://user-images.githubusercontent.com/98444459/179123117-7ea596ed-41c3-41e4-b6c4-361e93f29485.png)
 
-
+As per this screenshot below we can see the details of one of the blocks entered in the blockchain that has been selected using the dropdown. 
 ![Screen Shot 2022-07-14 at 8 30 02 PM](https://user-images.githubusercontent.com/98444459/179123130-a02fc238-698e-4ec9-982e-5a8cec2af8df.png)
+
+--- 
+
+## Contributors
+
+Made by:
+Ryan Anderson
+  Email: m.anderson.ryan@gmail.com
+  LinkedIn: https://www.linkedin.com/in/ryan-anderson-57b2b173
+
+---
+
+## License
+
+No licenses are required to run this application
